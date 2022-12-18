@@ -40,7 +40,7 @@ In RPG Builder, CharacterData is saved to or loaded from the PlayFab server. The
 
 ### RPG Contents
 
-RPG Builder assets are a collection of assets that provide basic elements for building an RPG (Role-Playing Game). These assets can include character models, weapons, environments, and other game assets that are commonly found in RPGs. By purchasing these assets, you can save time when creating a demo content for your RPG.
+RPG Builder assets are a collection of assets that provide basic elements for building an RPG (Role-Playing Game). These assets can include character models, weapons, environments, and other game assets that are commonly found in RPGs.
 
 #### example video
 
